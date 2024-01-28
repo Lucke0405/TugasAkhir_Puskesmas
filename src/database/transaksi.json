@@ -1,0 +1,64 @@
+[
+  {
+    "namaPasien": "1",
+    "uangPembayaran": 1231,
+    "timeStamp": "2024-01-26 04:47:19"
+  },
+  {
+    "namaPasien": "1",
+    "uangPembayaran": 999,
+    "timeStamp": "2024-01-26 04:49:12"
+  },
+  {
+    "namaPasien": "1",
+    "uangPembayaran": 12,
+    "timeStamp": "2024-01-26 04:51:45"
+  },
+  {
+    "namaPasien": "1",
+    "uangPembayaran": 1,
+    "timeStamp": "2024-01-26 04:52:27"
+  },
+  {
+    "namaPasien": "1",
+    "adminPengelola": "admin",
+    "uangPembayaran": 1,
+    "timeStamp": "2024-01-26 05:01:23"
+  },
+  {
+    "namaPasien": "1",
+    "adminPengelola": "admin",
+    "uangPembayaran": 9072,
+    "timeStamp": "2024-01-26 05:03:35"
+  },
+  {
+    "namaPasien": "1",
+    "adminPengelola": "admin",
+    "uangPembayaran": 8,
+    "timeStamp": "2024-01-26 05:04:43"
+  },
+  {
+    "namaPasien": "1",
+    "adminPengelola": "admin",
+    "uangPembayaran": 1231213,
+    "timeStamp": "2024-01-26 05:05:36"
+  },
+  {
+    "namaPasien": "1",
+    "adminPengelola": "admin",
+    "uangPembayaran": 123,
+    "timeStamp": "2024-01-26 05:24:48"
+  },
+  {
+    "namaPasien": "a",
+    "adminPengelola": "admin",
+    "uangPembayaran": 25000,
+    "timeStamp": "2024-01-25 22:39:49"
+  },
+  {
+    "namaPasien": "obet",
+    "adminPengelola": "admin",
+    "uangPembayaran": 25000,
+    "timeStamp": "2024-01-26 16:18:15"
+  }
+]

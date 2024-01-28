@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "namaPoli": "poliGigi",
+    "antrian": [],
+    "dokter": [
+      {
+        "id": 1,
+        "nama": "ayaka",
+        "jadwal": [],
+        "spesialis": "poliGigi"
+      },
+      {
+        "id": 2,
+        "nama": "kuki",
+        "jadwal": [],
+        "spesialis": "poliGigi"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "namaPoli": "poliMata",
+    "antrian": [],
+    "dokter": [
+      {
+        "id": 3,
+        "nama": "jokowi",
+        "jadwal": [],
+        "spesialis": "poliMata"
+      },
+      {
+        "id": 4,
+        "nama": "prabowo",
+        "jadwal": [],
+        "spesialis": "poliMata"
+      },
+      {
+        "id": 5,
+        "nama": "ganjar",
+        "jadwal": [],
+        "spesialis": "poliMata"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "namaPoli": "poliPenyakitDalam",
+    "antrian": [],
+    "dokter": []
+  },
+  {
+    "id": 4,
+    "namaPoli": "poliAwdawdad",
+    "antrian": [],
+    "dokter": [
+      {
+        "id": 2,
+        "nama": "wakwau",
+        "jadwal": [],
+        "spesialis": "poliAwdawdad"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "namaPoli": "polibadan",
+    "antrian": [],
+    "dokter": []
+  }
+]

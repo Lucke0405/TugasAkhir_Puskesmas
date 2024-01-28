@@ -1,0 +1,73 @@
+[
+  {
+    "nama": "1",
+    "alamat": "1",
+    "kelamin": "l",
+    "tempatTanggalLahir": "1",
+    "nik": "1",
+    "nomerBpjs": "1",
+    "transaksi": [
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 1231213,
+        "timeStamp": "2024-01-26 05:05:36"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 123,
+        "timeStamp": "2024-01-26 05:24:48"
+      }
+    ]
+  },
+  {
+    "nama": "a",
+    "alamat": "a",
+    "kelamin": "l",
+    "tempatTanggalLahir": "a",
+    "nik": "001",
+    "nomerBpjs": "001",
+    "transaksi": [
+      {
+        "namaPasien": "a",
+        "adminPengelola": "admin",
+        "uangPembayaran": 25000,
+        "timeStamp": "2024-01-25 22:39:49"
+      }
+    ]
+  },
+  {
+    "nama": "obet",
+    "alamat": "stk",
+    "kelamin": "p",
+    "tempatTanggalLahir": "indo",
+    "nik": "002",
+    "nomerBpjs": "002",
+    "transaksi": [
+      {
+        "namaPasien": "obet",
+        "adminPengelola": "admin",
+        "uangPembayaran": 25000,
+        "timeStamp": "2024-01-26 16:18:15"
+      }
+    ]
+  },
+  {
+    "nama": "roberto",
+    "alamat": "kutisari",
+    "kelamin": "p",
+    "tempatTanggalLahir": "semarang",
+    "nik": "911",
+    "nomerBpjs": "911",
+    "antrian": {
+      "nomerAntrian": 2,
+      "namaPoli": "poliGigi",
+      "dokterYangMenangani": "ayaka",
+      "namaPasien": "roberto",
+      "jadwalHari": "awdawdaw",
+      "jadwalJam": "1231231"
+    },
+    "transaksi": []
+  }
+]

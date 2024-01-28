@@ -1,0 +1,62 @@
+[
+  {
+    "username": "admin",
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "transaksi": [
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 12,
+        "timeStamp": "2024-01-25 05:19:52"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 10,
+        "timeStamp": "2024-01-25 05:36:55"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 1,
+        "timeStamp": "2024-01-26 05:01:23"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 9072,
+        "timeStamp": "2024-01-26 05:03:35"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 8,
+        "timeStamp": "2024-01-26 05:04:43"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 1231213,
+        "timeStamp": "2024-01-26 05:05:36"
+      },
+      {
+        "namaPasien": "1",
+        "adminPengelola": "admin",
+        "uangPembayaran": 123,
+        "timeStamp": "2024-01-26 05:24:48"
+      },
+      {
+        "namaPasien": "a",
+        "adminPengelola": "admin",
+        "uangPembayaran": 25000,
+        "timeStamp": "2024-01-25 22:39:49"
+      },
+      {
+        "namaPasien": "obet",
+        "adminPengelola": "admin",
+        "uangPembayaran": 25000,
+        "timeStamp": "2024-01-26 16:18:15"
+      }
+    ]
+  }
+]

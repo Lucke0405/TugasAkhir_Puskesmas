@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nama": "ayaka",
+    "jadwal": [
+      {
+        "id": 1,
+        "jadwalhari": "awdawdaw",
+        "jadwalJam": "1231231"
+      },
+      {
+        "id": 2,
+        "jadwalhari": "kamis",
+        "jadwalJam": "19:80"
+      },
+      {
+        "id": 3,
+        "jadwalhari": "sabtu",
+        "jadwalJam": "12312"
+      },
+      {
+        "id": 4,
+        "jadwalhari": "sabtu",
+        "jadwalJam": "16:00"
+      }
+    ],
+    "spesialis": "poliGigi"
+  },
+  {
+    "id": 2,
+    "nama": "wakwau",
+    "jadwal": [],
+    "spesialis": "poliAwdawdad"
+  }
+]
